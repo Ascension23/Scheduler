@@ -1,4 +1,3 @@
-![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/77472152/115801958-d0e2a880-a392-11eb-87cb-6ac46efdbad5.png)
 # Work Day Scheduler
 
 This is my Work Day Scheduler. Using Bootstrap, Moment, JavaScript, HTML5 and CSS to create a scheduler that uses local storage to help you plan your day.
